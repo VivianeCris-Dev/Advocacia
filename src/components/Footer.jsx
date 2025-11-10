@@ -1,5 +1,5 @@
 import whatsapp from "../assets/Whatsapp.svg";
-import instagram from "../assets/instagram.svg";
+import instagram from "../assets/Instagram.svg";
 
 function Footer({ wasClicked, setWasClicked, menuItems }) {
   return (
