@@ -1,6 +1,6 @@
 import wave from "../assets/Wave.svg";
 import cil from "../assets/cil_badge.svg";
-import advogado from "../assets/advogado.svg";
+import advogado from "../assets/Advogado.svg";
 import jovem from "../assets/jovem.png";
 import vectorleft from "../assets/Vectorleft.svg";
 import vector1 from "../assets/Vector1.svg";
