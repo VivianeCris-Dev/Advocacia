@@ -1,4 +1,4 @@
-import cards from "../../cards";
+import cards from "../cards.js";
 function Card() {
   return (
     <div className="flex gap-9 grid grid-cols-1 grid-cols-3 gap-15 mb-20 max-[1037px]:grid-cols-2 max-[564px]:gap-8 max-[502px]:grid-cols-1">

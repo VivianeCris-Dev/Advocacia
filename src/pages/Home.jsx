@@ -4,7 +4,7 @@ import advogado from "../assets/Advogado.svg";
 import jovem from "../assets/jovem.png";
 import vectorleft from "../assets/Vectorleft.svg";
 import vector1 from "../assets/Vector1.svg";
-import balanca from "../assets/balanca.svg";
+import balanca from "/balanca.svg";
 
 function Home() {
   return (

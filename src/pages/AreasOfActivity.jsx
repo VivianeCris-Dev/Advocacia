@@ -1,5 +1,5 @@
 import line from "../assets/Line.svg";
-import Card from "../cards";
+import Card from "../components/Card";
 
 function AreasOfActivity({ setWasClicked }) {
   return (
